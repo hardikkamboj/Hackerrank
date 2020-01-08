@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535181883 source:e:\c language\hackerrank\digit frequency\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

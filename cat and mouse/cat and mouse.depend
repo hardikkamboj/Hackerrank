@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536052921 source:e:\c language\hackerrank\cat and mouse\main.c
+	<stdio.h>
+	<stdlib.h>
+
