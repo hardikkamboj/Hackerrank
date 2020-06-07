@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539499458 source:e:\c language\hackerrank\repeating strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

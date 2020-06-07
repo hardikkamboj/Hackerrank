@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538976149 source:e:\c language\data structures\sherlock and squares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
