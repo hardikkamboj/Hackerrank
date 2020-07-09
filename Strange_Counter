@@ -1,0 +1,15 @@
+t = int(input())
+
+flag = 0
+cum = 3
+value = 3
+time = 1
+
+while flag == 0:
+    if t <= cum:
+        print(value - (t - time))
+        flag = 1
+    else:
+        cum += value*2
+        time += value
+        value = value*2    
